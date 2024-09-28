@@ -4,7 +4,7 @@
 - <div align="center">
   <br />
    
-      <img src="./public/assets/images/Banner.png" alt="Project Banner">
+      <img src="./assets/images/Banner.png" alt="Project Banner">
     </a>
   <br />
 
