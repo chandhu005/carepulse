@@ -4,7 +4,9 @@
 - <div align="center">
   <br />
    
-      <img src="./assets/images/Banner.png" alt="Project Banner">
+      <a>
+      <img src="https://raw.githubusercontent.com/chandhu005/carepulse/main/public/assets/images/Banner.png" alt="Project Banner">
+
     </a>
   <br />
 
