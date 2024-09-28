@@ -4,7 +4,7 @@
 - <div align="center">
   <br />
    
-      <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
+      <img src="./public/assets/images/Banner.png" alt="Project Banner">
     </a>
   <br />
 
@@ -985,4 +985,6 @@ export const StatusIcon = {
 ## <a name="links">🔗 Assets</a>
 
 Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
+
+
 
