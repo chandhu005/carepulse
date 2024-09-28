@@ -4,7 +4,7 @@
 - <div align="center">
   <br />
    
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/151519281/347042676-a7dd73b6-93de-484d-84e0-e7f4e299167b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T064208Z&X-Amz-Expires=300&X-Amz-Signature=8d4d170b780bb86b370c36a2f74617805c6d5d93583a7bd99ac51f92d169044e&X-Amz-SignedHeaders=host" alt="Project Banner">
+      <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
     </a>
   <br />
 
