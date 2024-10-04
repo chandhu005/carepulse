@@ -27,6 +27,7 @@
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
+8. 🗃️ [Download Figma design (.fig)](./public/HealthcareSystem.fig)
 
 ## <a name="introduction">🤖 Introduction</a>
 
